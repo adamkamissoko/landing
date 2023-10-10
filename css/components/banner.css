@@ -1,0 +1,14 @@
+.banner {
+  background-image: url("https://lewagon.github.io/landing-page-challenge/images/background.png");
+  background-size: cover;
+  background-position: center;
+  /* height: 500px;
+  width: 100%; */
+  color: white;
+  /* font-size: 15px; */
+  font-weight: bold;
+  /* align-items: center; */
+  justify-content: center;
+  display: flex;
+  padding: 200px 0;
+}
